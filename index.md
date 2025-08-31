@@ -1,13 +1,19 @@
 ---
-title: New Title
-description: The titles and descriptions can be changed
+title: "Jolsuan's Portfolio"
+description: "Data science projects and analysis"
 ---
 
-![My Picture](/pics/Albert_Einstein_Q.jpg)
+![Profile Picture](/pics/Albert_Einstein_Q.jpg)
 
-This content I have developed for my courses:
-- [Advanced Matplotlib Assignemnt](/M3GitHub/index.md)
+Welcome! I'm Jolsuan, a data professional passionate about turning data into insights. This site showcases personal and academic projects.
 
+## Projects
 
-Link to repository:
-- [Sample Repository](https://github.com/Jolsuan/jolsuan.github.io)
+- [Construction Spending Visualization](projects/construction-spending/) – Graduate school project exploring U.S. construction spending with Python.
+- [End-to-End Workforce Data Pipeline](projects/workforce-pipeline/) – Streaming workforce roster data with Kafka, Spark, Airflow, dbt, and more.
+
+See the [full project list](projects/).
+
+## About
+
+Learn more [about me](about.md) or explore the [source on GitHub](https://github.com/Jolsuan/jolsuan.github.io).

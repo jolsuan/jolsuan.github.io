@@ -1,0 +1,11 @@
+employee_id,effective_date,role,department,status
+1001,2020-01-01,Analyst,Sales,Active
+1001,2021-06-15,Senior Analyst,Sales,Active
+1001,2022-10-01,Manager,Operations,Active
+1001,2023-03-31,Manager,Operations,Inactive
+1002,2019-05-10,Data Engineer,IT,Active
+1002,2020-08-20,Data Engineer,IT,Inactive
+1003,2021-07-01,HR Associate,HR,Active
+1003,2022-01-01,HR Associate,HR,Inactive
+1003,2022-09-15,HR Associate,HR,Active
+1003,2024-01-01,HR Specialist,HR,Active
