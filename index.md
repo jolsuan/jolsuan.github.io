@@ -10,6 +10,8 @@ Welcome! I'm Jolsuan, a data professional passionate about turning data into ins
 ## Projects
 
 - [Construction Spending Visualization](projects/construction-spending/) – Graduate school project exploring U.S. construction spending with Python.
+- [End-to-End Workforce Data Pipeline](projects/workforce-pipeline/) – Streaming workforce roster data with Kafka, Spark, Airflow, dbt, and more.
+=======
 
 See the [full project list](projects/).
 
